@@ -1,0 +1,40 @@
+
+.about1
+{
+height: 600px;
+width: 1260px;
+border: 9px solid #D1C6B2;
+background-color: #E3D8C2;
+margin-top: 40px;
+margin-left: 30px;
+margin-right: 30px;
+}
+.about2
+{
+height:500px;
+width:400px;
+margin-top:10px;
+margin-left:40px;
+margin-right:20px;
+float:left;
+font-family:'Dancing Script', cursive;
+}
+.about3
+{
+height:500px;
+width: 680px;
+margin-top:10px;
+margin-left:10px;
+margin-right:30px;
+float:right;
+font-family:'Dancing Script', cursive;
+}
+.bottom
+{
+height:5px;
+background-color:#D1C6B2;
+width:1354px;
+margin-top:25px;
+margin-left:10px;
+font-weight:bold;
+}
